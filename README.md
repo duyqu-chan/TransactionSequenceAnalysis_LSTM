@@ -50,4 +50,13 @@ The core model uses an LSTM architecture, which is well-suited for sequential da
 - **Anomaly Detection:** Using Auto-encoder LSTM for detecting rare and anomalous behaviors in customer transaction sequences.
 
 ## How to Use
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/yourusername/Customer-Transaction-Sequence-Classification.git
+2. Install the required dependencies: pip install -r requirements.txt
+3. Run the notebook to train and evaluate the model:
+- Open the `SequenceClassification_lcwDrive.ipynb` notebook in Jupyter/Colab.
+- Follow the instructions for data preprocessing, model training, and evaluation.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
