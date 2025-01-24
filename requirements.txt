@@ -1,0 +1,10 @@
+
+numpy==1.23.0
+pandas==1.5.0
+scikit-learn==1.0.2
+imbalanced-learn==0.9.1
+tensorflow==2.8.0
+keras-tuner==1.1.2
+matplotlib==3.5.1
+seaborn==0.11.2
+rarfile==4.0
